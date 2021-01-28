@@ -1,10 +1,8 @@
 /**
- * @name BiggerStreamPreview
- * @authorId 289112759948410881
- * @invite z6Yx9A8VDR
- * @website https://github.com/jaimeadf/BetterDiscordPlugins/tree/main/BiggerStreamPreview
- * @source https://github.com/jaimeadf/BetterDiscordPlugins/blob/main/BiggerStreamPreview/BiggerStreamPreview.plugin.js
- * @updateUrl https://raw.githubusercontent.com/jaimeadf/BetterDiscordPlugins/main/BiggerStreamPreview/BiggerStreamPreview.plugin.js
+ * @name CopyLinkToAvatar
+ * @authorId 783016235696128090
+ * @source https://github.com/catvskid/CopyLinkToAvatar
+ * @updateUrl https://raw.githubusercontent.com/catvskid/CopyLinkToAvatar/main/CopyLinkToAvatar.js
  */
 
 } : (([Plugin, Library]) => {
